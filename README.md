@@ -1,3 +1,5 @@
+"""UNDER CONSTRUCTION"""
+
 Experience is My Debugger – Building ML Products that Solve Real User Problems (Think of Me as Your Personal Gandalf of Machine Learning!)
 
 Navigating the complexities of logistic giants like DHL Express and Russian Post and tackling ascents like Alpamayo and Matterhorn have taught me one essential thing: the route matters as much as the destination. That's the philosophy I bring to building ML products focused on genuine user needs. Think of me as your personal Gandalf of Machine Learning, guiding you on that journey... minus the fireworks!
