@@ -4,7 +4,7 @@ Experience is My Debugger – Building ML Products that Solve Real User Problems
 
 Navigating the complexities of logistic giants like DHL Express and Russian Post and tackling ascents like Alpamayo and Matterhorn have taught me one essential thing: the route matters as much as the destination. That's the philosophy I bring to building ML products focused on genuine user needs. Think of me as your personal Gandalf of Machine Learning, guiding you on that journey... minus the fireworks!
 
-Throughout my career, I've tackled complex challenges head-on, like service products for pharma distribution across the country in accordance with the rules (including temperature level keeping, etc.). In this project, I [briefly describe your role and the positive impact you had on users].  This experience, combined with my insatiable thirst for learning, fuels my passion for building impactful ML systems that make a real difference.
+Throughout my career, I've tackled complex challenges head-on, like service products for pharma distribution across the country in accordance with the rules (including temperature level keeping, etc.). In this project, I was preparing the project from scratch (customer pains, CJM, strategy, tactics and resources, etc.) and leading the team and, as the result, we create the opportunity for more than 10 million of rural residents to buy medicines online and receive it at home.  This experience, combined with my insatiable thirst for learning, fuels my passion for building impactful ML systems that make a real difference.
 
 Here are some ideas to get you started:
 
